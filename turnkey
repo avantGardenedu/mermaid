@@ -1,0 +1,10 @@
+graph TD;
+    A[Beachfront Villa] --> B[TurnKeyinPuntaCana.com];
+    B --> C[Effortless Purchase];
+    B --> D[Expert Guidance];
+    B --> E[Premier Punta Cana Properties];
+    style A fill:#f9f,stroke:#333,stroke-width:4px;
+    style B fill:#9f9,stroke:#333,stroke-width:4px;
+    style C fill:#ff6,stroke:#333,stroke-width:4px;
+    style D fill:#ff6,stroke:#333,stroke-width:4px;
+    style E fill:#ff6,stroke:#333,stroke-width:4px;
